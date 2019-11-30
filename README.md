@@ -1,3 +1,8 @@
+# Changed example for ESP32 POE esp-idf v4.1
+
+Changed example from master of esp-idf ( https://github.com/espressif/esp-idf/tree/7f4c8a0/examples/ethernet/basic ) after instructions from https://github.com/OLIMEX/ESP32-POE/issues/7 
+
+
 # Ethernet Example
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
